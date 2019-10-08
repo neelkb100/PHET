@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">PHET</string>
+    <string name="app_title">Pune Hiking Enthusiasts</string>
+    <string name="h_title">Home For  Travel Guide</string>
+    <string name="c_title">Camping And Trek To Kalavantin Durg</string>
+    <string name="c_price">1100 </string>
+    <string name="c_price_c">INR</string>
+    <string name="c_day_time">10th OCT 2019 7 AM</string>
+    <string name="c_rating">4.7</string>
+    <string name="l_button">Login</string>
+    <string name="r_button">Register</string>
+</resources>
